@@ -1,3 +1,7 @@
+# MacKenzie Strategy
+
+![Design preview](./design/desktop-preview.jpg)
+
 ## Table of contents
 
 - [General info](#general-info)
