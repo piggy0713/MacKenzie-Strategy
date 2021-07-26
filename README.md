@@ -7,7 +7,6 @@
 - [General info](#general-info)
 - [Live Url](#url)
 - [Technologies](#technologies)
-- [Preview](#preview)
 
 ## General info
 
@@ -24,7 +23,3 @@ Project is created with:
 - Bootstrap
 - Fontawesome
 - Jquery plugin : Owl Carousel, Magnific Popup, WOW
-
-## Preview
-
-(./img/preview/desktop.png)
