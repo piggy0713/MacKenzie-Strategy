@@ -10,7 +10,7 @@
 
 ## General info
 
-This project is a simply repponsive website template
+This project is a simple responsive website template
 
 ## Live Url
 
