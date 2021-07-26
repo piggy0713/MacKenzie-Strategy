@@ -1,6 +1,6 @@
 # MacKenzie Strategy
 
-![Design preview](./design/desktop-preview.jpg)
+![Design preview](./img/preview/desktop.png)
 
 ## Table of contents
 
