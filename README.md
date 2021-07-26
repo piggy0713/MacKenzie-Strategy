@@ -23,3 +23,6 @@ Project is created with:
 - Bootstrap
 - Fontawesome
 - Jquery plugin : Owl Carousel, Magnific Popup, WOW
+- HTML5
+- JavaScript
+- CSS
